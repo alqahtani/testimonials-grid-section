@@ -10,6 +10,12 @@ module.exports = {
         'light-gray': 'hsl(0, 0%, 81%)',
         'light-grayish-blue': 'hsl(210, 46%, 95%)',
       },
+      fontFamily: {
+        'ch': ['Barlow Semi Condensed', 'sans-serif'],
+      },
+      fontSize: {
+        'sm': '13px',
+      }
     },
   },
   variants: {
