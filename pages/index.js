@@ -162,8 +162,8 @@ export default function Home() {
 
 
       <footer className="text-center mt-4">
-        Challenge by <a className="text-violet underline" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-        Coded by <a className="text-violet underline" href="#">Ahmed AlQahtani</a>.
+        Challenge by <a className="text-violet underline" href="https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7" target="_blank">Frontend Mentor</a>.
+        Coded by <a className="text-violet underline" href="https://twitter.com/alqa7tani">Ahmed AlQahtani</a>.
       </footer>
     </div>
   )
